@@ -1,16 +1,25 @@
-### Hi there 👋
-
-<!--
-**0rax/0rax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=0rax&count_private=true&show_icons=true&cache_seconds=86400&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=0rax&count_private=true&show_icons=true&cache_seconds=86400"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img alt="0rax's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=0rax&count_private=true&show_icons=true&cache_seconds=86400" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0rax&layout=compact&exclude_repo=dotfiles&langs_count=8&hide=ruby&cache_seconds=86400&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0rax&layout=compact&exclude_repo=dotfiles&langs_count=8&hide=ruby&cache_seconds=86400"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rax&layout=compact&exclude_repo=dotfiles&langs_count=8&hide=ruby&cache_seconds=86400" />
+  </picture>
+</p>
