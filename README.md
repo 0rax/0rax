@@ -23,3 +23,5 @@
     <img align="top" width="40%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0rax&layout=compact&exclude_repo=dotfiles&langs_count=8&hide=ruby&cache_seconds=86400" />
   </picture>
 </p>
+
+<!-- Generated using https://github.com/anuraghazra/github-readme-stats -->
