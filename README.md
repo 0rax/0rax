@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=0rax&count_private=true&show_icons=true&cache_seconds=86400&theme=github_dark&border_color=30363D"
+      srcset="https://github-readme-stats.vercel.app/api?username=0rax&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400&theme=github_dark&border_color=30363D"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=0rax&count_private=true&show_icons=true&cache_seconds=86400&border_color=D0D7DE"
+      srcset="https://github-readme-stats.vercel.app/api?username=0rax&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400&border_color=D0D7DE"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" width="56%" alt="0rax's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=0rax&count_private=true&show_icons=true&cache_seconds=86400" />
+    <img align="top" width="56%" alt="0rax's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=0rax&count_private=true&show_icons=true&rank_icon=github&cache_seconds=86400" />
   </picture>
   &nbsp;
   <picture width="40%">
